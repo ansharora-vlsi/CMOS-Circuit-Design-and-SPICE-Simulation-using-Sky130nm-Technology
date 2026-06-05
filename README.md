@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Tools and Technology Used](#tools-and-technology-used)
 
