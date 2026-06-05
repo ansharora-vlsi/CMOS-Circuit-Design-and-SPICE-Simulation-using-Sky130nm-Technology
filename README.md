@@ -2,32 +2,41 @@
 
 ## Table of Contents
 
-- Project Overview
-- Tools and Technology Used
-# Day 1: Basics of NMOS and SPICE Simulation
-  - Introduction to SPICE Simulation
-  - NMOS Structure and Working
-  - Threshold Voltage and Strong Inversion
-  - Id vs Vds Characteristics
-  - Lab: NMOS Id-Vds Simulation using Sky130 Models
-# Day 2: Velocity Saturation and CMOS Inverter VTC
-  - Short Channel Effects
-  - Velocity Saturation
-  - Id vs Vgs Simulation
-  - CMOS Inverter Voltage Transfer Characteristics
-# Day 3: CMOS Switching Threshold and Dynamic Simulation
-  - CMOS Inverter SPICE Deck
-  - Static Simulation of CMOS Inverter
-  - Switching Threshold Vm
-  - Transient Analysis and Delay Calculation
-# Day 4: Noise Margin Analysis
-  - Introduction to Noise Margin
-  - Noise Margin Parameters
-  - Noise Margin Calculation using VTC
-# Day 5: Power Supply and Device Variation Analysis
-  - Power Supply Variation
-  - Device Variation
-  - Conclusion
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools and Technology Used](#tools-and-technology-used)
+
+- [Day 1: Basics of NMOS and SPICE Simulation](#day-1-basics-of-nmos-and-spice-simulation)
+  - [Introduction to SPICE Simulation](#introduction-to-spice-simulation)
+  - [NMOS Structure and Working](#nmos-structure-and-working)
+  - [Threshold Voltage and Strong Inversion](#threshold-voltage-and-strong-inversion)
+  - [Id vs Vds Characteristics](#id-vs-vds-characteristics)
+  - [Lab: NMOS Id-Vds Simulation using Sky130 Models](#lab-nmos-id-vds-simulation-using-sky130-models)
+
+- [Day 2: Velocity Saturation and CMOS Inverter VTC](#day-2-velocity-saturation-and-cmos-inverter-vtc)
+  - [Short Channel Effects](#short-channel-effects)
+  - [Velocity Saturation](#velocity-saturation)
+  - [Id vs Vgs Simulation](#id-vs-vgs-simulation)
+  - [CMOS Inverter Voltage Transfer Characteristics](#cmos-inverter-voltage-transfer-characteristics)
+
+- [Day 3: CMOS Switching Threshold and Dynamic Simulation](#day-3-cmos-switching-threshold-and-dynamic-simulation)
+  - [CMOS Inverter SPICE Deck](#cmos-inverter-spice-deck)
+  - [Static Simulation of CMOS Inverter](#static-simulation-of-cmos-inverter)
+  - [Switching Threshold Vm](#switching-threshold-vm)
+  - [Transient Analysis and Delay Calculation](#transient-analysis-and-delay-calculation)
+
+- [Day 4: Noise Margin Analysis](#day-4-noise-margin-analysis)
+  - [Introduction to Noise Margin](#introduction-to-noise-margin)
+  - [Noise Margin Parameters](#noise-margin-parameters)
+  - [Noise Margin Calculation using VTC](#noise-margin-calculation-using-vtc)
+
+- [Day 5: Power Supply and Device Variation Analysis](#day-5-power-supply-and-device-variation-analysis)
+  - [Power Supply Variation](#power-supply-variation)
+  - [Device Variation](#device-variation)
+
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ---
 
