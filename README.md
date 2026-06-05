@@ -4,7 +4,7 @@
 
 - Project Overview
 - Tools and Technology Used
-- Day 1: Basics of NMOS and SPICE Simulation
+- [Day 1: Basics of NMOS and SPICE Simulation](# Day 1: Basics of NMOS and SPICE Simulation)
   - Introduction to SPICE Simulation
   - NMOS Structure and Working
   - Threshold Voltage and Strong Inversion
