@@ -91,8 +91,8 @@ An NMOS transistor consists of:
 - Gate terminal
 - Source, drain, gate, and body terminals
 
-When the gate voltage is zero, no conducting channel exists between source and drain. When a positive gate-to-source voltage is applied, electrons start accumulating near the oxide-substrate interface.
-
+## When the gate voltage is zero, no conducting channel exists between source and drain. When a positive gate-to-source voltage is applied, electrons start accumulating near the oxide-substrate interface.
+ 
 
 <img width="910" height="496" alt="Screenshot 2026-06-05 at 9 14 30 PM" src="https://github.com/user-attachments/assets/6d858885-847e-4cd4-9640-18a2bbecedde" />
 
@@ -112,10 +112,10 @@ Important points:
 - If Vgs > Vt, NMOS is ON.
 - Threshold voltage depends on body bias and technology parameters.
 
-This Image shows NMOS Threshold Voltage calculation with body grounded-
+## This Image shows NMOS Threshold Voltage calculation with body grounded-
 <img width="910" height="496" alt="Screenshot 2026-06-05 at 9 16 36 PM" src="https://github.com/user-attachments/assets/5be8310e-bc00-4980-a61e-bf248395ae76" />
 
-This is when body substrate is biased-
+## This is when body substrate is biased-
 <img width="954" height="488" alt="Screenshot 2026-06-05 at 9 59 18 PM" src="https://github.com/user-attachments/assets/73e3d6af-41c6-4574-afe3-7974cfc2194e" />
 
 
@@ -143,7 +143,7 @@ Condition for saturation region:
 
 text Vds >= Vgs - Vt 
 
-All equation are derived using semiconductor phyics-
+## All equation are derived using semiconductor phyics-
 <img width="954" height="543" alt="Screenshot 2026-06-05 at 10 02 15 PM" src="https://github.com/user-attachments/assets/051ae0bd-3a2a-42f3-9199-bb64d2c0f196" />
 
 ---
