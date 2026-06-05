@@ -4,27 +4,27 @@
 
 - Project Overview
 - Tools and Technology Used
-- [Day 1: Basics of NMOS and SPICE Simulation](# Day 1: Basics of NMOS and SPICE Simulation)
+# Day 1: Basics of NMOS and SPICE Simulation
   - Introduction to SPICE Simulation
   - NMOS Structure and Working
   - Threshold Voltage and Strong Inversion
   - Id vs Vds Characteristics
   - Lab: NMOS Id-Vds Simulation using Sky130 Models
-- Day 2: Velocity Saturation and CMOS Inverter VTC
+# Day 2: Velocity Saturation and CMOS Inverter VTC
   - Short Channel Effects
   - Velocity Saturation
   - Id vs Vgs Simulation
   - CMOS Inverter Voltage Transfer Characteristics
-- Day 3: CMOS Switching Threshold and Dynamic Simulation
+# Day 3: CMOS Switching Threshold and Dynamic Simulation
   - CMOS Inverter SPICE Deck
   - Static Simulation of CMOS Inverter
   - Switching Threshold Vm
   - Transient Analysis and Delay Calculation
-- Day 4: Noise Margin Analysis
+# Day 4: Noise Margin Analysis
   - Introduction to Noise Margin
   - Noise Margin Parameters
   - Noise Margin Calculation using VTC
-- Day 5: Power Supply and Device Variation Analysis
+# Day 5: Power Supply and Device Variation Analysis
   - Power Supply Variation
   - Device Variation
   - Conclusion
