@@ -4,7 +4,7 @@
 
 - Project Overview
 - Tools and Technology Used
-#day-1-basics-of-nmos-and-spice-simulation
+# Day 1: Basics of NMOS and SPICE Simulation
   - Introduction to SPICE Simulation
   - NMOS Structure and Working
   - Threshold Voltage and Strong Inversion
@@ -50,7 +50,7 @@ The main objective of this project was to understand how CMOS circuits are desig
 
 ---
 
-#day-1-basics-of-nmos-and-spice-simulation
+# Day 1: Basics of NMOS and SPICE Simulation
 
 ## Introduction to SPICE Simulation
 
